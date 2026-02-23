@@ -242,5 +242,3 @@ sequenceDiagram
       Queue->>DB: Persist transaction + risk result
   end
 ```
-
-If you want this document converted to an internal RFC or added to `/Users/farzad/Desktop/_/PulseGuard/README.md`, say the word and I’ll format it accordingly.
